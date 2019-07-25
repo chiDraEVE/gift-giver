@@ -1,5 +1,5 @@
 {
-  "name": "ch2-gift-giver",
+  "name": "gift-giver",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
